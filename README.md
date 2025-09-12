@@ -1,4 +1,6 @@
-<img width="1272" height="640" alt="image" src="https://github.com/user-attachments/assets/2599f079-8e4e-43e4-9669-e6228f15d80d" />
+<p align="center">
+  <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/2599f079-8e4e-43e4-9669-e6228f15d80d" />
+</p>
 
 # 🧮 SQL Basic Exercises
 
@@ -12,7 +14,7 @@ This repository contains SQL exercises completed as part of university coursewor
 All tasks were developed using SQL Server Management Studio (SSMS) with Microsoft SQL Server as the primary database engine. 
 The exercises reflect practical applications of relational database design, query writing, and procedural logic, aligned with academic learning objectives.
 
-## ✨ Features
+## 🧠 Skills & Knowledge
 
 • Basic proficiency in writing views for structured data presentation
 
