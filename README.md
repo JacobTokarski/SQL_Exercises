@@ -2,10 +2,9 @@
 
 # 🧮 SQL Basic Exercises
 
-**Author:** Jakub Tokarski  
-**Student ID:** 51700  
-**Coursework Completion Date:** June 5, 2025  
-**Institution:** Uniwersytet Dolnośląski DSW Wrocław  
+•  Author: Jakub Tokarski , Index: 51700
+
+•  Coursework Completion Date: June 5, 2025  
 
 ## 📄 Description
 
