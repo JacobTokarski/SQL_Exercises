@@ -33,8 +33,8 @@ The exercises reflect practical applications of relational database design, quer
 ## 📄 Licence
 
 These exercises were completed as part of academic coursework at Uniwersystet Dolnośląski DSW Wrocław and is intended solely for educational purposes.  
-© 2025 Jakub Tokarski. All rights reserved for academic context.
 
+All icons used in this file were sourced from the following website: https://pl.freepik.com
 
 
 
